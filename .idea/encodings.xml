@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/bbspconsole" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bbsplogin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bbspportal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicecms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicecob" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serviceproduct" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicesolr" charset="UTF-8" />
+  </component>
+</project>

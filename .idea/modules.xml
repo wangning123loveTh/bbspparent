@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bbspcommon/bbspcommon.iml" filepath="$PROJECT_DIR$/bbspcommon/bbspcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbspconsole/bbspconsole.iml" filepath="$PROJECT_DIR$/bbspconsole/bbspconsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbspdao/bbspdao.iml" filepath="$PROJECT_DIR$/bbspdao/bbspdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbspinterface/bbspinterface.iml" filepath="$PROJECT_DIR$/bbspinterface/bbspinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbsplogin/bbsplogin.iml" filepath="$PROJECT_DIR$/bbsplogin/bbsplogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbspparent.iml" filepath="$PROJECT_DIR$/bbspparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbsppojo/bbsppojo.iml" filepath="$PROJECT_DIR$/bbsppojo/bbsppojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbspportal/bbspportal.iml" filepath="$PROJECT_DIR$/bbspportal/bbspportal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicecms/servicecms.iml" filepath="$PROJECT_DIR$/servicecms/servicecms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicecob/servicecob.iml" filepath="$PROJECT_DIR$/servicecob/servicecob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceproduct/serviceproduct.iml" filepath="$PROJECT_DIR$/serviceproduct/serviceproduct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicesolr/servicesolr.iml" filepath="$PROJECT_DIR$/servicesolr/servicesolr.iml" />
+    </modules>
+  </component>
+</project>

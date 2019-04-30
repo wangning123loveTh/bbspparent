@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bbspportal:war">
+    <output-path>$PROJECT_DIR$/bbspportal/target</output-path>
+    <root id="archive" name="bbsp-portal.war">
+      <element id="artifact" artifact-name="bbspportal:war exploded" />
+    </root>
+  </artifact>
+</component>

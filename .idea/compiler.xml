@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bbspcommon" />
+        <module name="bbspconsole" />
+        <module name="bbspdao" />
+        <module name="bbspinterface" />
+        <module name="bbsplogin" />
+        <module name="bbsppojo" />
+        <module name="bbspportal" />
+        <module name="servicecms" />
+        <module name="servicecob" />
+        <module name="serviceproduct" />
+        <module name="servicesolr" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bbspcommon" target="1.8" />
+      <module name="bbspconsole" target="1.8" />
+      <module name="bbspdao" target="1.8" />
+      <module name="bbspinterface" target="1.8" />
+      <module name="bbsplogin" target="1.8" />
+      <module name="bbspparent" target="1.8" />
+      <module name="bbsppojo" target="1.8" />
+      <module name="bbspportal" target="1.8" />
+      <module name="servicecms" target="1.8" />
+      <module name="servicecob" target="1.8" />
+      <module name="serviceproduct" target="1.8" />
+      <module name="servicesolr" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

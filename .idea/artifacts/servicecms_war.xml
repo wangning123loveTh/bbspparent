@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="servicecms:war">
+    <output-path>$PROJECT_DIR$/servicecms/target</output-path>
+    <root id="archive" name="service-cms.war">
+      <element id="artifact" artifact-name="servicecms:war exploded" />
+    </root>
+  </artifact>
+</component>
